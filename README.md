@@ -1,6 +1,6 @@
 # ☕ 7 Brew Rewards Program Website
 
-This project was developed during my Summer 2025 internship as a **Software Developer Intern at 7 Brew Coffee**. It is a full-stack web application that allows customers to earn, track, and redeem loyalty points. I built the site from scratch and integrated it with the company's backend systems using REST APIs.
+This project was developed during my Summer 2025 internship as a **Software Developer Intern at 7 Brew Coffee**. It is a full-stack web application that allows thousands of customers to earn, track, and redeem loyalty points. I built the site from scratch and integrated it with the company's backend systems using REST APIs.
 
 > 🔒 Note: Screenshots and sample data have been anonymized to respect company privacy.
 
