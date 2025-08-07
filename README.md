@@ -30,8 +30,8 @@ This project was developed during my Summer 2025 internship as a **Software Deve
 > Replace these with your actual screenshots saved inside a `/screenshots` folder in the repo.
 
 ### 🏠 Login Page  
-![Login](screenshots/login-page.png)
-![Login](screenshots/login-page2.png)
+![Login-Top](screenshots/Login-Page.png)
+![Login-Bottom](screenshots/Login-Page-2.png)
 ![Auth](screenshots/Auth-Login.png)
 
 ### 📋 Customer Dashboard  
