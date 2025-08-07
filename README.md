@@ -27,20 +27,15 @@ This project was developed during my Summer 2025 internship as a **Software Deve
 
 ## 📸 Screenshots
 
-> Replace these with your actual screenshots saved inside a `/screenshots` folder in the repo.
-
 ### 🏠 Login Page  
 ![Login-Top](screenshots/Login-Page.png)
 ![Login-Bottom](screenshots/Login-Page-2.png)
 ![Auth](screenshots/Auth-Login.png)
 
 ### 📋 Customer Dashboard  
-![Dashboard](screenshots/dashboard.png)
+
 
 ### 🎁 Rewards Page  
-![Rewards](screenshots/rewards.png)
 
----
 
-## 📁 Folder Structure
 
