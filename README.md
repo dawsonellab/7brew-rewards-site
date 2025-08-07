@@ -32,7 +32,7 @@ This project was developed during my Summer 2025 internship as a **Software Deve
 ### 🏠 Login Page  
 ![Login](screenshots/login-page.png)
 ![Login](screenshots/login-page2.png)
-![Auth](screenshots/auth-login.png)
+![Auth](screenshots/Auth-Login.png)
 
 ### 📋 Customer Dashboard  
 ![Dashboard](screenshots/dashboard.png)
