@@ -33,12 +33,18 @@ This project was developed during my Summer 2025 internship as a **Software Deve
 ![Auth](screenshots/Auth-Login.png)
 
 ### Customer Dashboard  
-![Dashboard-Top](screenshots/Dashboard.png)
 ![Dashboard-Bottom](screenshots/Dashboard-2.png)
 ![Dashboard](screenshots/Dashboard-1.png)
+![Dashboard-Top](screenshots/Dashboard.png)
 
+### Gift Card Page  
+![Gift-Card](screenshots/GiftCard-Page.png)
+![Gift-Card](screenshots/GiftCard-2.png)
 
-### Rewards Page  
+### Account Page 
+![account-page](screenshots/Account-Page.png)
+![account-page](screenshots/Account-page2.png)
+
 
 
 
