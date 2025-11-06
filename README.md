@@ -33,6 +33,9 @@ This project was developed during my Summer 2025 internship as a **Software Deve
 ![Auth](screenshots/Auth-Login.png)
 
 ### Customer Dashboard  
+![Dashboard-Top](screenshots/Dashboard.png)
+![Dashboard-Bottom](screenshots/Dashboard-2.png)
+![Dashboard](screenshots/Dashboard-1.png)
 
 
 ### Rewards Page  
